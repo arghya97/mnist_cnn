@@ -11,5 +11,5 @@ Here keras is used using tensorflow backend
 * Finally model is used to predict the data for test.csv file
 
 ## Installation
-  To run the notebook the following libraries need to be installed `numpy`, `pandas`, `keras`, `sklearn`.
-  Then run the jupyter notebook. (It's better to use gpu enabled workspace for faster execution) 
+* To run the notebook the following libraries need to be installed `numpy`, `pandas`, `keras`, `sklearn`.
+* Then run the jupyter notebook. (It's better to use gpu enabled workspace for faster execution) 
