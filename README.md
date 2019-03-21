@@ -7,7 +7,7 @@ Here keras is used using tensorflow backend
 * Then the image display is done using `matplotlib.imgshow` and added lable to visualize the dataset
 * Then the cnn architecture is  described and compiled
 * Here a validation set is created to check validation and load weights from the best model
-* The final model gave a acc of 98.3% of the test data set
+* The final model gave a acc of 98.5% of the test data set
 * Finally model is used to predict the data for test.csv file
 
 ## Installation
