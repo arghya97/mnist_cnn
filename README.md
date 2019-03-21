@@ -2,6 +2,9 @@
 
 Here keras is used using tensorflow backend
 
+## Dataset
+This dataset is downloaded from kaggle competition for mnist dataset
+
 ## Process
 * First the dataset is loaded into `pandas.dataframe` and data is reshaped to get the spatial image
 * Then the image display is done using `matplotlib.imgshow` and added lable to visualize the dataset
